@@ -46,9 +46,11 @@ I'm constantly learning new technologies and improving my development practices 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KingCalvo&theme=dark" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingCalvo&layout=compact" height="170">
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KingCalvo&theme=dark&hide_border=true&border_radius=2.1&mode=weekly&card_height=170" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingCalvo&layout=compact" />
 
 </div>
-
 
