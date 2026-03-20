@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./bannerCalvo.png)
 ## Hey, I'm Enrique!
 
 I'm a Systems Engineering graduate passionate about building practical and scalable software solutions.
